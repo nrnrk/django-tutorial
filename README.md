@@ -1,6 +1,6 @@
 # django-tutorial
 
-Project after tutorials of https://docs.djangoproject.com/ja/3.0/intro/
+Project after tutorials of https://docs.djangoproject.com/en/3.0/intro/ (日本語: https://docs.djangoproject.com/ja/3.0/intro/)
 
 ## Tutorial List
 
